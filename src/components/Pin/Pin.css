@@ -1,0 +1,11 @@
+.pin {
+  position: absolute;
+  z-index: 1;
+  background-color: "green";
+}
+
+.img-pin {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.read-popup {
+  position: relative;
+  background-color: white;
+}
+
+.comment {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  padding: 5px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #ccc;
+}
